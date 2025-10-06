@@ -1,7 +1,11 @@
+<p align="center">
+
 # 👋 Hi, I'm Monik Malviya  
 
 🚀 *Full-Stack Developer | MERN Stack | AI & Web Enthusiast*  
 💡 *Turning ideas into impactful web applications*  
+
+</p>
 
 ---
 
